@@ -7,5 +7,5 @@ Contents:
 2. BFS and DFS Search Algorithms
 3. Turing Test and CAPTCHA Explanation
 4. Turing Test and CAPTCHA simulation
-5. 
+ 
 Language Used: Python
